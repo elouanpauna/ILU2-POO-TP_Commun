@@ -1,5 +1,5 @@
 package model;
 
-public class FormulaireHotel {
+public class FormulaireHotel extends Formulaire{
 
 }

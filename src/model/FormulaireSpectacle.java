@@ -1,5 +1,5 @@
 package model;
 
-public class FormulaireSpectacle {
+public class FormulaireSpectacle extends Formulaire{
 
 }
